@@ -2,6 +2,8 @@
 * {
     margin: 0;
     font-family: 'Poppins', sans-serif;
+}
+main, header {
     background-color: white;
 }
 
@@ -154,3 +156,20 @@ nav li a {
     background: #E02C6D;
 }
 
+/* Influencer products */
+.footer {
+    margin-top: 100px;
+    padding: 50px 500px;
+    text-align: center;
+    background-color: #000000;
+}
+.footer-title {
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.footer-copyright {
+    font-size: 14px;
+    line-height: 24px;
+    color: #D9DBE1;
+}
