@@ -108,6 +108,12 @@ nav li a {
     font-size: 24px;
     color: rgba(0, 0, 0, 0.87);
 }
+.fa-star {
+    font-size: 12px;
+}
+.fa-star .filled {
+    background: #FB8200;
+}
 .item-shifting, .buyers {
     font-weight: 700;
     font-size: 14px;
